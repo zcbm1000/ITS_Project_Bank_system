@@ -1,0 +1,17 @@
+[
+    {
+        "acc_no": "111-222",
+        "owner": "kim",
+        "balance": 65000
+    },
+    {
+        "acc_no": "555-666",
+        "owner": "lee",
+        "balance": 75000
+    },
+    {
+        "acc_no": "333-444",
+        "owner": "park",
+        "balance": 120000
+    }
+]
