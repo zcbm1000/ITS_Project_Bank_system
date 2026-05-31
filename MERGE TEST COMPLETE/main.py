@@ -1,18 +1,9 @@
-# ==========================================================
-# sg_mainMenu/mainMenu.py
-# 역할: 프로그램 전체 메뉴 흐름 제어 및 독립 모듈들의 실행 트리거
-# ==========================================================
-
 from config import config
 from sg_mainMenu import memberService
 from sg_mainMenu import database
 
-# [오류 수정] 기존 memoFinal 은 실제 파일명(memo_final.py)과 일치하지 않아 메인이 터졌음
-# 실제 파일명인 memo_final 에서 managementMemo 를 불러오도록 정정하여 구동 크래시를 방지함
 from dm_memo_must.memo.memoFinal import managementMemo
 from dm_memo_must.must.mustFinal import managementMust
-
-# [경로 동기화] 주신 오더대로 종호님과 태경님의 고유 패키지 경로를 100% 일치시켜 로드함
 from JH_account.accountMenu import activeAccountMenu
 from tk_newAccount.newAccount import accountMenu
 

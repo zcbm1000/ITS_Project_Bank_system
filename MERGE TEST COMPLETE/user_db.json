@@ -16,5 +16,14 @@
         "userAccount": null,
         "managementMemo": [],
         "managementMust": []
+    },
+    "QWE": {
+        "userName": "QWE",
+        "userPw": "123",
+        "userMail": "123",
+        "userPhone": "2",
+        "userAccount": "1231231231231",
+        "managementMemo": [],
+        "managementMust": []
     }
 }

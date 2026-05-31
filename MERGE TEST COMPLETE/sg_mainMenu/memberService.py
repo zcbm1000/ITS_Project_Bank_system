@@ -1,8 +1,3 @@
-# ==========================================================
-# sg_mainMenu/memberService.py
-# 역할: 회원가입, 로그인, 아이디/비밀번호 찾기 함수 모음
-# ==========================================================
-
 from config import config
 from dataBase import userDb
 from sg_mainMenu import database

@@ -1,8 +1,3 @@
-# ==========================================================
-# sg_mainMenu/database.py
-# 역할: 회원 데이터를 json 파일에 저장하고 불러오는 함수 모음
-# ==========================================================
-
 import json
 from config import config
 from dataBase import userDb
