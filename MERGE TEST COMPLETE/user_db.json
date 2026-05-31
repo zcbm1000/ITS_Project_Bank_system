@@ -1,0 +1,20 @@
+{
+    "qwer": {
+        "userName": "aaa",
+        "userPw": "1234",
+        "userMail": "qwer",
+        "userPhone": "1234",
+        "userAccount": "1231231231231",
+        "managementMemo": [],
+        "managementMust": []
+    },
+    "qwe": {
+        "userName": "qwe",
+        "userPw": "123",
+        "userMail": "123",
+        "userPhone": "qwe",
+        "userAccount": null,
+        "managementMemo": [],
+        "managementMust": []
+    }
+}
